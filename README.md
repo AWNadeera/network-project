@@ -30,23 +30,11 @@ The goal is to simulate a structured, scalable, and secure organizational networ
 - Internet simulation (where applicable)  
 - DHCP IP allocation verification  
 
----
-
-## 📷 Screenshots
-Add your screenshots here:
-
-- Network Topology  
-- VLAN Configuration  
-- Router Configuration  
-- Ping Test Results  
-
----
-
 ## 🎯 Objective
 To design and implement a functional enterprise network while applying core networking concepts in a simulated environment.
 
 ---
 
 ## 👨‍💻 Author
-- Name: Your Name  
+- Name: AW Nadeers
 - Project: Academic Networking Lab Project  
