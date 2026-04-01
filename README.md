@@ -36,5 +36,5 @@ To design and implement a functional enterprise network while applying core netw
 ---
 
 ## 👨‍💻 Author
-- Name: AW Nadeers
+- Name: AW Nadeera
 - Project: Academic Networking Lab Project  
